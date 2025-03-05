@@ -2,6 +2,8 @@
 
 Welcome to my collection of AI agents! In this repository, you’ll find various agents that I have built to enhance my skills and tackle different challenges. Each agent serves a unique purpose, and I hope you find them useful—or at least entertaining. Who knows, one of these might even start thinking for itself and attempt to conquer the world… (Just kidding 👀)
 
+**Note**: While building these agents, I’ve tried to avoid using third-party frameworks (like LangChain and LangGraph) as much as possible, embracing the power of pure Python from scratch. However, for some of the more complex agentic systems, I did resort to using frameworks (😑). In the future, I may add some pure Python implementations to those, so stay tuned!
+
 ## Table of Contents
 
 - [Agent 1: Self-Improving Agent](./self_improving_agent.ipynb) - This agent *tries* to improve itself. It might get better, or it might just become really good at overthinking. You decide.
