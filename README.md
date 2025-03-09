@@ -17,6 +17,40 @@ Welcome to my collection of AI agents! In this repository, you’ll find various
 - [Agent 9: PaperMind: Intelligent paper search assistant](./scientific_paper_agent.ipynb) - Because parsing through a hundred research papers should feel like a superpower, not a punishment. 🔍📚
 - More soon... (I’m still waiting for them to get their act together.)
 
+## Environment Variables
+
+Before running any of the agents, make sure to set up the necessary environment variables.  
+Copy the `.env.example` file and rename it to `.env`:
+
+```bash
+# OpenAI API Key (required) and Base URL (optional)
+OPENAI_API_KEY=
+OPENAI_BASE_URL=
+
+# DeepSeek API Key (required) and Base URL (optional)
+DEEPSEEK_API_KEY=
+DEEPSEEK_BASE_URL=
+
+# Anthropic API Key (required) and Base URL (optional)
+ANTHROPIC_API_KEY=
+ANTHROPIC_BASE_URL=
+
+# Google API Key (required) and Base URL (optional)
+GOOGLE_API_KEY=
+GOOGLE_BASE_URL=
+
+# Tavily API Key (required)
+TAVILY_API_KEY=
+
+# News API Key (required)
+NEWS_API_KEY=
+
+# CORE API Key (required)
+CORE_API_KEY=
+```
+
+Make sure you have the required API keys to access external services. Without these, some agents may not function as expected.
+
 ## Contributing
 
 Feel free to fork this repository and submit issues or pull requests. I'm always open to suggestions for improvements, so don’t hesitate to contribute if you see something that could be enhanced. If you have a better idea for an agent that can bring me snacks, even better. 🍕
