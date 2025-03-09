@@ -14,7 +14,6 @@ Welcome to my collection of AI agents! In this repository, you’ll find various
 - [Agent 6: AInsight: AI/ML Weekly News Reporter](./ainsight_langgraph.ipynb) - Keeping you updated on AI/ML news, because who has time to read the full articles? You’re busy, after all!
 - [Agent 7: History and Data Analysis Collaboration System](./multi_agent_collaboration_system.ipynb) - For when your agents just can’t stop debating the meaning of history.
 - [Agent 8: News TL;DR using Langgraph (Too Long Didn't Read)](./news_tldr_langgraph.ipynb) - The agent who cuts through the noise. Because, let’s be honest, who reads the whole article anyway? 😅
-- [Agent 9: PaperMind: Intelligent paper search assistant (./scientific_paper_agent.ipynb) - Because parsing through a hundred research papers should feel like a superpower, not a punishment. 🔍📚
 - More soon... (I’m still waiting for them to get their act together.)
 
 ## Contributing
