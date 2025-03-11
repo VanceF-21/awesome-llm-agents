@@ -15,6 +15,7 @@ Welcome to my collection of AI agents! In this repository, you’ll find various
 - [Agent 7: History and Data Analysis Collaboration System](./multi_agent_collaboration_system.ipynb) - For when your agents just can’t stop debating the meaning of history.
 - [Agent 8: News TL;DR using Langgraph (Too Long Didn't Read)](./news_tldr_langgraph.ipynb) - The agent who cuts through the noise. Because, let’s be honest, who reads the whole article anyway? 😅
 - [Agent 9: PaperMind: Intelligent paper search assistant](./scientific_paper_agent.ipynb) - Because parsing through a hundred research papers should feel like a superpower, not a punishment. 🔍📚
+- [Agent 10: Systematic Review Agent](./systematic_review_of_scientific_articles.ipynb) - Automates the process of creating systematic reviews of academic papers. From searching for papers to generating a final draft, this agent makes literature reviews feel less like a chore and more like magic. ✨
 - More soon... (I’m still waiting for them to get their act together.)
 
 ## Environment Variables
